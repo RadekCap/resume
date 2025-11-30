@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route, Link, useLocation } from 'react-router-dom'
-import { Film, Skull, Wand2, MapPin, Zap, Users, Target, Swords, Crosshair, Virus } from 'lucide-react'
+import { Film, Skull, Wand2, MapPin, Zap, Users, Target, Swords, Crosshair, Biohazard } from 'lucide-react'
 
 // Import all CV pages
 import XMenResume from '../pages/xmen.jsx'
@@ -67,7 +67,7 @@ const themes = [
     path: '/resident-evil',
     name: 'Resident Evil',
     component: ResidentEvilResume,
-    icon: Virus,
+    icon: Biohazard,
     color: 'from-red-900 to-black',
     description: 'Survival horror meets software engineering'
   },
