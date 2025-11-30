@@ -3,16 +3,16 @@ import { Routes, Route, Link, useLocation } from 'react-router-dom'
 import { Film, Skull, Wand2, MapPin, Zap, Users, Target, Swords, Crosshair, Virus } from 'lucide-react'
 
 // Import all CV pages
-import XMenResume from '../pages/xmen.js'
-import XMenAltResume from '../pages/xmen-alt.js'
-import LotrResume from '../pages/lord-of-the-rings.js'
-import LotrAltResume from '../pages/lord-of-the-rings-alt.js'
-import StarWarsResume from '../pages/star-wars.js'
-import JamesBondResume from '../pages/james-bond.js'
-import ResidentEvilResume from '../pages/resident-evil.js'
-import HarryPotterResume from '../pages/harry-potter.js'
-import MatrixResume from '../pages/matrix.js'
-import TerminatorResume from '../pages/terminator.js'
+import XMenResume from '../pages/xmen.jsx'
+import XMenAltResume from '../pages/xmen-alt.jsx'
+import LotrResume from '../pages/lord-of-the-rings.jsx'
+import LotrAltResume from '../pages/lord-of-the-rings-alt.jsx'
+import StarWarsResume from '../pages/star-wars.jsx'
+import JamesBondResume from '../pages/james-bond.jsx'
+import ResidentEvilResume from '../pages/resident-evil.jsx'
+import HarryPotterResume from '../pages/harry-potter.jsx'
+import MatrixResume from '../pages/matrix.jsx'
+import TerminatorResume from '../pages/terminator.jsx'
 
 const themes = [
   {
