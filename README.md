@@ -1,5 +1,14 @@
 # Resume - Movie-Themed CV Collection
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://radekcap.github.io/resume/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/RadekCap/resume/deploy-github-pages.yml?branch=main&label=Build&logo=github-actions)](https://github.com/RadekCap/resume/actions/workflows/deploy-github-pages.yml)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18.3-61dafb?logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4-646cff?logo=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/RadekCap/resume/pulls)
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://github.com/RadekCap/resume)
+
 A creative portfolio showcasing my professional experience through 10 different movie and series themes. Each theme presents the same information in a unique, immersive style.
 
 ## 🎬 Available Themes
